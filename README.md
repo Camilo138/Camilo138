@@ -5,7 +5,7 @@ Estudiante en desarrollo y diseño web
 -------------------------------------
 
 * 🌍  I'm based in Colombia
-* ✉️  You can contact me at [camilovalle138@gmailcom](mailto:camilovalle138@gmailcom)
+* ✉️  You can contact me at [camilovalle138@gmailcom](mailto:camilovalle138@gmail.com)
 * 🧠  I'm learning Python, MySQL, Django
 * 🤝  I'm open to collaborating on Proyectos de desarrollo de software
   
