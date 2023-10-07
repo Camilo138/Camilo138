@@ -1,7 +1,7 @@
 Hi 👋 My name is Camilo Vallejos
 ================================
 
-Estudiante de Desarrollo de Softw
+Estudiante de Desarrollo de Software
 ---------------------------------
 
 * 🌍  I'm based in Colombia
